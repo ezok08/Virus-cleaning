@@ -208,6 +208,58 @@
 				}
 			],
 			"sid": 385597686344734
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 690278372742209,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonAceptar5"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 182600997947849,
+					"parameters": {
+						"layout": "game over"
+					}
+				}
+			],
+			"sid": 354129946383163
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 119221093707276,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonEliminar5"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 864303104566051,
+					"parameters": {
+						"layout": "nivel6"
+					}
+				}
+			],
+			"sid": 175275533556753
 		}
 	],
 	"sid": 329592246321735

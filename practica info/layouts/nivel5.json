@@ -38,7 +38,7 @@
 				{
 					"type": "Texto",
 					"properties": {
-						"text": "Enhorabuena, has ganado este maravilloso iphone 17!",
+						"text": "El pago de 500$ ha sido realizado con éxito.",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -80,7 +80,7 @@
 				{
 					"type": "Texto2",
 					"properties": {
-						"text": "Para poder conseguirlo haga clic en el siguiente enlace:",
+						"text": "En caso de error, acceda al siguiente enlace:",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -122,7 +122,7 @@
 				{
 					"type": "Texto3",
 					"properties": {
-						"text": "http:/enlaceqllevaaunvirusseguro.com",
+						"text": "http:/caJasurinfo/fkfkfkf.com",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -193,7 +193,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "De: sorteoiphone@virus.es",
+						"text": "De: baNcoSanTanDer@gmail.com",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -233,7 +233,7 @@
 					}
 				},
 				{
-					"type": "botonAceptar1",
+					"type": "botonAceptar5",
 					"properties": {
 						"text": "Aceptar",
 						"enable-bbcode": true,
@@ -243,9 +243,9 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							0.23137254901960785,
-							0.9098039215686274,
-							0.27450980392156865,
+							0.00784313725490196,
+							0.9686274509803922,
+							0.07450980392156863,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -258,10 +258,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1312,
-						"y": 489,
-						"width": 118,
-						"height": 47,
+						"x": 1245,
+						"y": 506,
+						"width": 130,
+						"height": 46,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -275,7 +275,7 @@
 					}
 				},
 				{
-					"type": "botonEliminar1",
+					"type": "botonEliminar5",
 					"properties": {
 						"text": "Eliminar",
 						"enable-bbcode": true,
@@ -285,9 +285,9 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							1,
-							0,
-							0,
+							0.9882352941176471,
+							0.011764705882352941,
+							0.011764705882352941,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -300,10 +300,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1310,
-						"y": 568,
-						"width": 161,
-						"height": 67,
+						"x": 1243,
+						"y": 576,
+						"width": 149,
+						"height": 53,
 						"originX": 0,
 						"originY": 0,
 						"color": [
