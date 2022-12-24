@@ -42,11 +42,22 @@
 	"uniqueId": "4inj2ze66t4",
 	"objectTypes": {
 		"items": [
+			"start",
+			"titulo",
+			"Mouse",
+			"pantalla",
 			"Texto",
 			"Texto2",
-			"Mouse",
+			"Texto3",
 			"Sprite",
-			"Sprite2"
+			"Texto4",
+			"botonAceptar1",
+			"botonEliminar1",
+			"Texto5",
+			"Sprite2",
+			"Texto6",
+			"botonAceptar2",
+			"botonEliminar2"
 		],
 		"subfolders": []
 	},
@@ -58,15 +69,18 @@
 	},
 	"layouts": {
 		"items": [
-			"Escena 1",
-			"Escena 2"
+			"start",
+			"nivel1",
+			"nivel2",
+			"nivel3",
+			"game over"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Hoja de eventos 1",
-			"Hoja de eventos 2"
+			"Hoja de eventos niveles",
+			"Hoja de eventos start"
 		],
 		"subfolders": []
 	},

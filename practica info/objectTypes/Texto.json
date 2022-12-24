@@ -1,14 +1,9 @@
 {
 	"name": "Texto",
 	"plugin-id": "Text",
-	"sid": 613735496459226,
+	"sid": 905330272528465,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
-	"effectTypes": [
-		{
-			"effectId": "brightness",
-			"name": "Brillo"
-		}
-	]
+	"effectTypes": []
 }
