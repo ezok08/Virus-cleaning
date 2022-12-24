@@ -468,6 +468,84 @@
 				}
 			],
 			"sid": 781679961459769
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 596441731270801,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonAceptar10"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 337441403313676,
+					"parameters": {
+						"layout": "game over"
+					}
+				}
+			],
+			"sid": 134132231003682
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 118482644018420,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonEliminar10"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 920684123940743,
+					"parameters": {
+						"layout": "final"
+					}
+				}
+			],
+			"sid": 909025487202252
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 256931093653648,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonreiniciarjuego"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 593947250443689,
+					"parameters": {
+						"layout": "start"
+					}
+				}
+			],
+			"sid": 434452805825683
 		}
 	],
 	"sid": 329592246321735

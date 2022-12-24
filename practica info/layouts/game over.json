@@ -118,6 +118,48 @@
 						"angle": 0,
 						"zElevation": 0
 					}
+				},
+				{
+					"type": "botonreiniciarjuego",
+					"properties": {
+						"text": "Reiniciar juego",
+						"enable-bbcode": true,
+						"font": "Arial",
+						"size": 35,
+						"line-height": 0,
+						"bold": false,
+						"italic": false,
+						"color": [
+							1,
+							0.4823529411764706,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 99,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 825,
+						"y": 558,
+						"width": 414,
+						"height": 96,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
 				}
 			],
 			"sid": 818696819067984,

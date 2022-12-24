@@ -72,7 +72,10 @@
 			"botonAceptar8",
 			"botonEliminar8",
 			"botonAceptar9",
-			"botonEliminar9"
+			"botonEliminar9",
+			"botonAceptar10",
+			"botonEliminar10",
+			"botonreiniciarjuego"
 		],
 		"subfolders": []
 	},
@@ -96,7 +99,8 @@
 			"nivel9",
 			"nivel10",
 			"game over",
-			"game over2"
+			"game over2",
+			"final"
 		],
 		"subfolders": []
 	},

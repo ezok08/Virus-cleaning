@@ -1,5 +1,5 @@
 {
-	"name": "game over2",
+	"name": "final",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -15,7 +15,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 90,
+					"uid": 94,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -38,7 +38,7 @@
 				{
 					"type": "Texto5",
 					"properties": {
-						"text": "¡Has eliminado un correo importante!",
+						"text": "¡Enhorabuena!",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 70,
@@ -46,9 +46,9 @@
 						"bold": true,
 						"italic": false,
 						"color": [
-							1,
 							0,
-							0,
+							0.9607843137254902,
+							0.23921568627450981,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -57,14 +57,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 91,
+					"uid": 95,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 553,
-						"y": 173,
-						"width": 950,
-						"height": 307,
+						"x": 631,
+						"y": 223,
+						"width": 718,
+						"height": 168,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -80,7 +80,7 @@
 				{
 					"type": "Texto5",
 					"properties": {
-						"text": "Game over",
+						"text": "Has logrado pasar el juego sin infectarte",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 70,
@@ -88,9 +88,9 @@
 						"bold": true,
 						"italic": false,
 						"color": [
+							0,
 							1,
-							0,
-							0,
+							0.16470588235294117,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -99,14 +99,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 92,
+					"uid": 96,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 730,
-						"y": 415,
-						"width": 509,
-						"height": 168,
+						"x": 531,
+						"y": 379,
+						"width": 1082,
+						"height": 267,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -141,12 +141,12 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 98,
+					"uid": 97,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 830,
-						"y": 558,
+						"x": 817,
+						"y": 109,
 						"width": 414,
 						"height": 96,
 						"originX": 0,
@@ -162,7 +162,7 @@
 					}
 				}
 			],
-			"sid": 422541316150845,
+			"sid": 886384157159510,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -191,7 +191,7 @@
 			"global": false
 		}
 	],
-	"sid": 245990721273589,
+	"sid": 528682975799057,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 3840,
