@@ -57,7 +57,9 @@
 			"Sprite2",
 			"Texto6",
 			"botonAceptar2",
-			"botonEliminar2"
+			"botonEliminar2",
+			"botonAceptar3",
+			"botonEliminar3"
 		],
 		"subfolders": []
 	},
@@ -73,7 +75,15 @@
 			"nivel1",
 			"nivel2",
 			"nivel3",
-			"game over"
+			"game over",
+			"nivel4",
+			"nivel5",
+			"nivel6",
+			"nivel7",
+			"nivel8",
+			"nivel9",
+			"nivel10",
+			"game over2"
 		],
 		"subfolders": []
 	},

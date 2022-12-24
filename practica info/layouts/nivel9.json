@@ -1,5 +1,5 @@
 {
-	"name": "nivel3",
+	"name": "nivel9",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -15,7 +15,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 25,
+					"uid": 74,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -38,7 +38,7 @@
 				{
 					"type": "Texto",
 					"properties": {
-						"text": "Aquí os dejo el enlace al vídeo que mencioné en clase.",
+						"text": "Enhorabuena, has ganado este maravilloso iphone 17!",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -57,7 +57,7 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 26,
+					"uid": 75,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -80,7 +80,7 @@
 				{
 					"type": "Texto2",
 					"properties": {
-						"text": "Debeis verlo para el tema 3.",
+						"text": "Para poder conseguirlo haga clic en el siguiente enlace:",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -99,7 +99,7 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 27,
+					"uid": 76,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -122,7 +122,7 @@
 				{
 					"type": "Texto3",
 					"properties": {
-						"text": "https://www.youtube.com/",
+						"text": "http:/enlaceqllevaaunvirusseguro.com",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -141,7 +141,7 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 28,
+					"uid": 77,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -170,7 +170,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 29,
+					"uid": 78,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -193,7 +193,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "De: jhg1240@alu.ubu.es",
+						"text": "De: sorteoiphone@virus.es",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -212,7 +212,7 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 30,
+					"uid": 79,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -233,7 +233,7 @@
 					}
 				},
 				{
-					"type": "botonAceptar3",
+					"type": "botonAceptar1",
 					"properties": {
 						"text": "Aceptar",
 						"enable-bbcode": true,
@@ -243,9 +243,9 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							0,
-							1,
-							0.11764705882352941,
+							0.23137254901960785,
+							0.9098039215686274,
+							0.27450980392156865,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -254,14 +254,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 6,
+					"uid": 80,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1256,
-						"y": 515,
-						"width": 122,
-						"height": 51,
+						"x": 1312,
+						"y": 489,
+						"width": 118,
+						"height": 47,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -275,7 +275,7 @@
 					}
 				},
 				{
-					"type": "botonEliminar3",
+					"type": "botonEliminar1",
 					"properties": {
 						"text": "Eliminar",
 						"enable-bbcode": true,
@@ -285,7 +285,7 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							0.9803921568627451,
+							1,
 							0,
 							0,
 							1
@@ -296,14 +296,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 31,
+					"uid": 81,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1254,
-						"y": 577,
-						"width": 132,
-						"height": 54,
+						"x": 1310,
+						"y": 568,
+						"width": 161,
+						"height": 67,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -317,7 +317,7 @@
 					}
 				}
 			],
-			"sid": 537722214856732,
+			"sid": 809065118906117,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -346,7 +346,7 @@
 			"global": false
 		}
 	],
-	"sid": 380682767751886,
+	"sid": 677063260876306,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 3840,
