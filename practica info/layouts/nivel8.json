@@ -38,7 +38,7 @@
 				{
 					"type": "Texto",
 					"properties": {
-						"text": "Enhorabuena, has ganado este maravilloso iphone 17!",
+						"text": "Ahorre ahora hasta un 50% gracias a esta oferta por ser cliente.",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -80,7 +80,7 @@
 				{
 					"type": "Texto2",
 					"properties": {
-						"text": "Para poder conseguirlo haga clic en el siguiente enlace:",
+						"text": "Para acceder a la oferta haga clic en el siguiente enlace:",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -122,7 +122,7 @@
 				{
 					"type": "Texto3",
 					"properties": {
-						"text": "http:/enlaceqllevaaunvirusseguro.com",
+						"text": "http:/www.movistar.chz/",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -193,7 +193,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "De: sorteoiphone@virus.es",
+						"text": "De: ofertasmovistaR@gmail.es",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -233,7 +233,7 @@
 					}
 				},
 				{
-					"type": "botonAceptar1",
+					"type": "botonAceptar8",
 					"properties": {
 						"text": "Aceptar",
 						"enable-bbcode": true,
@@ -243,9 +243,9 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							0.23137254901960785,
-							0.9098039215686274,
-							0.27450980392156865,
+							0.01568627450980392,
+							0.984313725490196,
+							0.20784313725490197,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -258,10 +258,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1312,
-						"y": 489,
-						"width": 118,
-						"height": 47,
+						"x": 1256,
+						"y": 518,
+						"width": 130,
+						"height": 57,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -275,7 +275,7 @@
 					}
 				},
 				{
-					"type": "botonEliminar1",
+					"type": "botonEliminar8",
 					"properties": {
 						"text": "Eliminar",
 						"enable-bbcode": true,
@@ -285,9 +285,9 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							1,
-							0,
-							0,
+							0.9921568627450981,
+							0.03137254901960784,
+							0.03137254901960784,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -300,10 +300,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1310,
-						"y": 568,
-						"width": 161,
-						"height": 67,
+						"x": 1251,
+						"y": 579,
+						"width": 173,
+						"height": 54,
 						"originX": 0,
 						"originY": 0,
 						"color": [

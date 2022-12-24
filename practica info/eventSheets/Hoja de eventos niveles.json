@@ -364,6 +364,58 @@
 				}
 			],
 			"sid": 665552467856829
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 118962417418325,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonAceptar8"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 950468848254060,
+					"parameters": {
+						"layout": "game over"
+					}
+				}
+			],
+			"sid": 733099949453926
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 427334409726882,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonEliminar8"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 986120677819705,
+					"parameters": {
+						"layout": "nivel9"
+					}
+				}
+			],
+			"sid": 929312295993792
 		}
 	],
 	"sid": 329592246321735
