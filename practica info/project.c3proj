@@ -63,7 +63,9 @@
 			"botonAceptar4",
 			"botonEliminar4",
 			"botonAceptar5",
-			"botonEliminar5"
+			"botonEliminar5",
+			"botonAceptar6",
+			"botonEliminar6"
 		],
 		"subfolders": []
 	},

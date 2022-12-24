@@ -38,7 +38,7 @@
 				{
 					"type": "Texto",
 					"properties": {
-						"text": "Enhorabuena, has ganado este maravilloso iphone 17!",
+						"text": "Ha autorizado un pago de €17,90 EUR a GLOVOAPP23 SL",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -80,7 +80,7 @@
 				{
 					"type": "Texto2",
 					"properties": {
-						"text": "Para poder conseguirlo haga clic en el siguiente enlace:",
+						"text": "Para ver la transacción acceda al siguiente enlace:",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -122,7 +122,7 @@
 				{
 					"type": "Texto3",
 					"properties": {
-						"text": "http:/enlaceqllevaaunvirusseguro.com",
+						"text": "https://www.paypal.com/es",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -193,7 +193,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "De: sorteoiphone@virus.es",
+						"text": "De:  servicio@paypal.es",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -233,7 +233,7 @@
 					}
 				},
 				{
-					"type": "botonAceptar1",
+					"type": "botonAceptar6",
 					"properties": {
 						"text": "Aceptar",
 						"enable-bbcode": true,
@@ -243,9 +243,9 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							0.23137254901960785,
-							0.9098039215686274,
-							0.27450980392156865,
+							0.0196078431372549,
+							1,
+							0.08627450980392157,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -258,10 +258,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1312,
-						"y": 489,
-						"width": 118,
-						"height": 47,
+						"x": 1247,
+						"y": 510,
+						"width": 141,
+						"height": 52,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -275,7 +275,7 @@
 					}
 				},
 				{
-					"type": "botonEliminar1",
+					"type": "botonEliminar6",
 					"properties": {
 						"text": "Eliminar",
 						"enable-bbcode": true,
@@ -285,7 +285,7 @@
 						"bold": false,
 						"italic": false,
 						"color": [
-							1,
+							0.9803921568627451,
 							0,
 							0,
 							1
@@ -300,10 +300,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1310,
-						"y": 568,
-						"width": 161,
-						"height": 67,
+						"x": 1248,
+						"y": 567,
+						"width": 137,
+						"height": 68,
 						"originX": 0,
 						"originY": 0,
 						"color": [
