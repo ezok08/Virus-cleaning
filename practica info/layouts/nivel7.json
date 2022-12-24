@@ -38,7 +38,7 @@
 				{
 					"type": "Texto",
 					"properties": {
-						"text": "Enhorabuena, has ganado este maravilloso iphone 17!",
+						"text": "Código de inicio de sesión.",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -80,7 +80,7 @@
 				{
 					"type": "Texto2",
 					"properties": {
-						"text": "Para poder conseguirlo haga clic en el siguiente enlace:",
+						"text": "Aquí tienes tu código de aprobación de inicio de sesión:",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -122,7 +122,7 @@
 				{
 					"type": "Texto3",
 					"properties": {
-						"text": "http:/enlaceqllevaaunvirusseguro.com",
+						"text": "448493",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -145,8 +145,8 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 476,
-						"y": 572,
+						"x": 488,
+						"y": 510,
 						"width": 525,
 						"height": 30,
 						"originX": 0,
@@ -193,7 +193,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "De: sorteoiphone@virus.es",
+						"text": "De: noreply@mail.accounts.riotgames.com",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 21,
@@ -218,7 +218,7 @@
 					"world": {
 						"x": 657,
 						"y": 118,
-						"width": 482,
+						"width": 560,
 						"height": 102,
 						"originX": 0,
 						"originY": 0,
@@ -233,19 +233,19 @@
 					}
 				},
 				{
-					"type": "botonAceptar1",
+					"type": "Texto7",
 					"properties": {
-						"text": "Aceptar",
+						"text": "https://www.riotgames.com/es",
 						"enable-bbcode": true,
 						"font": "Arial",
-						"size": 25,
+						"size": 21,
 						"line-height": 0,
 						"bold": false,
 						"italic": false,
 						"color": [
-							0.23137254901960785,
-							0.9098039215686274,
-							0.27450980392156865,
+							0,
+							0,
+							0,
 							1
 						],
 						"horizontal-alignment": "left",
@@ -254,14 +254,14 @@
 						"initially-visible": true,
 						"origin": "top-left"
 					},
-					"uid": 64,
+					"uid": 93,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1312,
-						"y": 489,
-						"width": 118,
-						"height": 47,
+						"x": 481,
+						"y": 584,
+						"width": 393,
+						"height": 42,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -275,7 +275,49 @@
 					}
 				},
 				{
-					"type": "botonEliminar1",
+					"type": "botonAceptar7",
+					"properties": {
+						"text": "Aceptar",
+						"enable-bbcode": true,
+						"font": "Arial",
+						"size": 25,
+						"line-height": 0,
+						"bold": false,
+						"italic": false,
+						"color": [
+							0.01568627450980392,
+							0.9450980392156862,
+							0.12156862745098039,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 64,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 1229,
+						"y": 513,
+						"width": 144,
+						"height": 50,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "botonEliminar7",
 					"properties": {
 						"text": "Eliminar",
 						"enable-bbcode": true,
@@ -300,10 +342,10 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 1310,
-						"y": 568,
-						"width": 161,
-						"height": 67,
+						"x": 1231,
+						"y": 574,
+						"width": 165,
+						"height": 56,
 						"originX": 0,
 						"originY": 0,
 						"color": [

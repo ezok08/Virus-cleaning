@@ -312,6 +312,58 @@
 				}
 			],
 			"sid": 270068146315292
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 128757209799620,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonAceptar7"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 698292106131649,
+					"parameters": {
+						"layout": "nivel8"
+					}
+				}
+			],
+			"sid": 260065462931657
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 893327135736990,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "botonEliminar7"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 406557494914402,
+					"parameters": {
+						"layout": "game over2"
+					}
+				}
+			],
+			"sid": 665552467856829
 		}
 	],
 	"sid": 329592246321735
