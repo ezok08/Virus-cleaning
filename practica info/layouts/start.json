@@ -59,7 +59,7 @@
 				{
 					"type": "titulo",
 					"properties": {
-						"text": "Virus cleaning",
+						"text": "Phishing cleaner",
 						"enable-bbcode": true,
 						"font": "fantasy",
 						"size": 70,
@@ -90,8 +90,8 @@
 						}
 					},
 					"world": {
-						"x": 687,
-						"y": 349,
+						"x": 711,
+						"y": 370,
 						"width": 844,
 						"height": 266,
 						"originX": 0,
