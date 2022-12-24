@@ -1,0 +1,36 @@
+{
+	"name": "Hoja de eventos 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-click",
+					"objectClass": "Mouse",
+					"sid": 725589150301535,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "destroy",
+					"objectClass": "Texto",
+					"sid": 339923554481113
+				},
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 780928304530699,
+					"parameters": {
+						"layout": "Escena 2"
+					}
+				}
+			],
+			"sid": 276892854472198
+		}
+	],
+	"sid": 473179700793280
+}
