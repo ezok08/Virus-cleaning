@@ -1,0 +1,14 @@
+{
+	"name": "titulo",
+	"plugin-id": "Text",
+	"sid": 346954539782398,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [
+		{
+			"effectId": "brightness",
+			"name": "Brillo"
+		}
+	]
+}

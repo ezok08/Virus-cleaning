@@ -1,0 +1,32 @@
+{
+	"name": "Hoja de eventos start",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 532153481850163,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "start"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 780928304530699,
+					"parameters": {
+						"layout": "nivel1"
+					}
+				}
+			],
+			"sid": 276892854472198
+		}
+	],
+	"sid": 473179700793280
+}
